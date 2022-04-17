@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paullarinweb
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning mern stack
 
 <!---
 paullarinweb/paullarinweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
